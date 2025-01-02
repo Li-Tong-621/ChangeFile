@@ -1,2 +1,2 @@
 # ChangeFile
-For changing files across different computer
+For changing files across different devices.
